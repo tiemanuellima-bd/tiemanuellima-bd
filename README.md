@@ -1,16 +1,65 @@
-## Hi there 👋
+## Olá, eu sou o Emanuel👋
 
-<!--
-**tiemanuellima-bd/tiemanuellima-bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Administração de Banco de Dados | Infraestrutura de T.I | Análise de Dados
 
-Here are some ideas to get you started:
+Trabalho com Tecnologia da Informação há 3 anos, com experiência em Infraestrutura de T.I, atuando na administração de servidores físicos e virtuais, redes, Windows Server, rotinas de backup e suporte técnico. Tenho foco na área de Banco de Dados, buscando constantemente aprimorar minhas habilidades em desempenho, segurança e disponibilidade da informação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Possuo um sólido conhecimento em Linguagem SQL, Administração de Banco de Dados. Possuo perfil analítico, organizado, resiliente e orientado a resultados, com facilidade para trabalhar sob pressão.
+
+<H2>🛠️ Tecnologias & Ferramentas</H2>
+<h3>📊 Banco de Dados</h3>
+
+- Linguagem SQL
+
+- Administração de Banco de Dados SQL Server
+
+
+<h3>📈 Dados & BI</h3>
+
+- Análise de Dados
+- Power BI (Dashboards, Modelagem, DAX básico)
+
+
+
+
+<h3>🖥️ Infraestrutura</h3>
+
+- Windows Server
+
+- Active Directory
+
+- Redes
+
+- Servidores Físicos e Virtuais
+
+- Rotinas de Backup
+
+
+<h3>🔧Suporte Técnico</h3>
+
+- Monitoramento e manutenção
+
+- Gestão de Incidentes
+
+📌 Principais Competências
+
+✔ Administração e manutenção de ambientes de banco de dados
+
+✔ Monitoramento de desempenho e estabilidade
+
+✔ backup e recuperação de dados
+
+✔ Análise e tratamento de dados
+
+✔ Trabalho sob pressão e resolução de problemas
+
+✔ Pensamento crítico e analítico
+
+
+
+<H3>📫 Contato</H3>
+
+📧 Email: ti.emanuellima@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/emanuel-lima-21ac/
+
