@@ -5,7 +5,7 @@ Trabalho com Tecnologia da Informação há 3 anos, com experiência em Infraest
 Possuo um sólido conhecimento em Linguagem SQL e Administração de Banco de Dados SQL Server. Possuo perfil analítico, organizado, resiliente e orientado a resultados, com facilidade para trabalhar sob pressão.
 
 <H2>🛠️ Tecnologias & Ferramentas</H2>
-<h3>📊 Banco de Dados</h3>
+<h2>📊 Banco de Dados</h2>
 
 - Linguagem SQL
 - Administração de Banco de Dados SQL Server
