@@ -1,4 +1,4 @@
-## Olá, eu sou o Emanuel👋
+# Olá, eu sou o Emanuel👋
 
 Trabalho com Tecnologia da Informação há 3 anos, com experiência em Infraestrutura de T.I, atuando na administração de servidores físicos e virtuais, redes, Windows Server, rotinas de backup e suporte técnico. Tenho foco na área de Banco de Dados, buscando constantemente aprimorar minhas habilidades em desempenho, segurança e disponibilidade da informação.
 
@@ -17,15 +17,15 @@ Possuo um sólido conhecimento em Linguagem SQL e Administração de Banco de Da
 - Azure
 
 
-<h3>📈 Dados & BI</h3>
+<h2>📈 Dados & BI</h2>
 
 - Análise de Dados
-- Power BI (Dashboards, Modelagem, DAX básico)
+- Power BI (Dashboards, Modelagem, DAX)
 
 
 
 
-<h3>🖥️ Infraestrutura</h3>
+<h2>🖥️ Infraestrutura</h2>
 
 - Windows Server
 - Active Directory
@@ -34,12 +34,12 @@ Possuo um sólido conhecimento em Linguagem SQL e Administração de Banco de Da
 - Rotinas de Backup
 
 
-<h3>🔧Suporte Técnico</h3>
+<h2>🔧Suporte Técnico</h2>
 
 - Monitoramento e manutenção
 - Gestão de Incidentes
   
-<h3>📌 Principais Competências</h3>
+<h2>📌 Principais Competências</h2>
 
 ✔ Administração e manutenção de ambientes de banco de dados
 
